@@ -1,0 +1,23 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theshubhamshivhare/coursera.git"
+  },
+  "author": "Shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theshubhamshivhare/coursera/issues"
+  },
+  "homepage": "https://github.com/theshubhamshivhare/coursera#readme"
+}
